@@ -1,0 +1,8 @@
+{
+  "name": "Remix متجر الفيصل للتجارة العامة",
+  "description": "تطبيق متجر الفيصل للتجارة العامة - تصميم فاخر داكن باللون الذهبي ونظام شبكة المنتجات Grid",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
